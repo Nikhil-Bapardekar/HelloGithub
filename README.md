@@ -1,2 +1,5 @@
+![headshot](R.jpg)
+
 # HelloGithub
-This is my first Github Repo!!
+
+Learning Github to use in my current projects at work.
