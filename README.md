@@ -1,4 +1,4 @@
-![headshot] (R.jpeg)
+![headshot](R.jpg)
 
 # HelloGithub
 
